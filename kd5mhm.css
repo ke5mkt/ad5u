@@ -4,6 +4,9 @@ body {
 
 .page-header {
     background-image: url(bsa-alton.png);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
 }
 
 .jumbotron {
