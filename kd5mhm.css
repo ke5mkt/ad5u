@@ -4,4 +4,7 @@ body {
 
 .page-header {
     background-image: url(alton.jpg);
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
