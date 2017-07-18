@@ -13,3 +13,4 @@ I have a couple of pictures of this guy and his scouts that may make a good addi
 3. Change the links to other pages on this site after I get them un-uglied.
 4. get my links off and put SJ's on there
 5. Find some BSA logos for decoration
+6. OH I simply must clean up this messy code as well.
